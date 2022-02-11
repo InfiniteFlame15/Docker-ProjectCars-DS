@@ -1,7 +1,7 @@
 FROM cm2network/steamcmd:steam
 
 LABEL name="Docker-ProjectCars-DS"
-LABEL version=0.0.1
+LABEL version=1.0.0
 LABEL maintainer="InfiniteFlame"
 
 # Set env variables
